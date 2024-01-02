@@ -1,5 +1,5 @@
 ## demo
 this is a readme file
 
-adding line 2
+adding line.
 adding another line
